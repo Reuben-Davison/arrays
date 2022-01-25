@@ -13,3 +13,5 @@ males.unshift(true)
 puts names
 # Index Positions - assigns a number starting with 0 to elements.
   #Example: in the array names, "ruby"= [0] "billy"= [2]
+#New method - .delete_at ; permanetly removes an element at a specified index
+  #example: ages.delete_at(2) ---> ages = [9, 12, 19]
