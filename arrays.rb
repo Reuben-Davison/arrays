@@ -10,3 +10,6 @@ ages.push(21)
 heighth.shift
 # .unshift will add true as[0]
 males.unshift(true)
+puts names
+# Index Positions - assigns a number starting with 0 to elements.
+  #Example: in the array names, "ruby"= [0] "billy"= [2]
